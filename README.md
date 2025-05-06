@@ -44,3 +44,7 @@ Python, C++, JavaScript, SQL, R . PyTorch, Flask, React, MongoDB, Django, Verilo
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arvind2848b41b5/)
+
+##  👁️ Visitor Count
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=xf4c70r.xf4c70r)
