@@ -1,7 +1,7 @@
 
 # Hi, I'm Arvind Sudarshan! 👋
 
-🚀 MS in Computer Science @ UC Davis | 🛠️ Software Engineering | 🧠 LLMs | 🔐 Hardware Security | 🧩 Explainable AI 
+🎓 MS in Computer Science @ UC Davis | 🔬 AI/ML Researcher @ CHEST | 🛠️ Software Engineering | 🧠 LLMs | 🧩 Explainable AI
 ## 🌟 About Me
 
 I'm a graduate student passionate about software engineering and the application of large language models (LLMs) across domains like hardware security, language learning, and financial literacy. Currently, I’m involved in two research labs:
